@@ -1,0 +1,6 @@
+{
+    "port": "COM22",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "ArduinoTank2023V1.ino"
+}
